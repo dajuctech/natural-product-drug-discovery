@@ -20,6 +20,9 @@ These modules are combined in a modular pipeline, enabling rapid exploration of 
 
 ![Streamlit UI](assets/ui_screenshot.png)
 
+![Streamlit UI](./assets/ui_screenshot.png)
+
+
 This user-friendly interface allows:
 - Manual input of SMILES strings or batch upload via CSV  
 - Visualization and property prediction of generated molecules  
