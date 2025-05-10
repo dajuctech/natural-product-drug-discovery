@@ -19,6 +19,8 @@ These modules are combined in a modular pipeline, enabling rapid exploration of 
 ## 🖥️ Web Interface
 
 ![Streamlit UI](assets/ui_screenshot.png)
+![image](https://github.com/user-attachments/assets/5339e4e8-5286-496c-a1cd-5dba927350fb)
+
 
 ![Streamlit UI](./assets/ui_screenshot.png)
 
