@@ -41,14 +41,17 @@ This user-friendly interface allows:
 ---
 
 ## 📁 Project Structure
-├── data/ # Curated and preprocessed datasets
-├── models/ # Pre-trained LLM, GAN, RL, and GNN components
-├── app/ # Streamlit interface
-├── api/ # FastAPI backend
-├── pipeline/ # Airflow orchestration scripts
-├── evaluation/ # Molecule scoring and validation
-├── assets/ # UI images, figures, plots
+```
+.
+├── data/                    # Curated and preprocessed datasets
+├── models/                  # Pre-trained LLM, GAN, RL, and GNN components  
+├── app/                     # Streamlit interface
+├── api/                     # FastAPI backend
+├── pipeline/                # Airflow orchestration scripts
+├── evaluation/              # Molecule scoring and validation
+├── assets/                  # UI images, figures, plots
 └── README.md
+```
 
 ---
 
