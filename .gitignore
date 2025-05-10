@@ -1,9 +1,9 @@
 # Exclude large data files
-data/
-models/
-models.zip
+#data/
+#models/
+#models.zip
 *.ipynb
 cached_lm_GPT2Tokenizer_64_temp_train.txt
-temp_train.txt
-venv/
-.venv/
+#temp_train.txt
+#venv/
+#.venv/
